@@ -1,0 +1,6 @@
+{
+  "name": "Khazan: Fractured Reality",
+  "description": "A 2D cel-shaded dark fantasy Metroidvania Soulslike where a scarred berserker wields reality-bending powers through a shattered citadel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
